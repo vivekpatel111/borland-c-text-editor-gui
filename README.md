@@ -2,7 +2,7 @@
 
 Borland  Text  Editor  is  the  simple  text  editor  which  graphical  representation  is same as BORLAND C Compiler. (Borland C Compiler is made under GNU-General Public Licence so it is available to modify or use without prior information to its author). Editor  gives  you  the  feel  of old Borlandcompiler  with  its original contents.You can writeand read from the specific files.
 
-*This program is tested using Borland C Compiler.*
+*This program is tested using Borland C++ Compiler.*
 
 ## File Structure
 | File Name | Description |
